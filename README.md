@@ -56,7 +56,7 @@ The main objective is to evaluate the effectiveness of different marketing chann
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/marketing-optimization-yafisha.git
+   git clone https://github.com/andrezacarrano/marketing-optimization-yafisha.git
    cd marketing-optimization-yafisha
    ```
 
@@ -72,7 +72,7 @@ The main objective is to evaluate the effectiveness of different marketing chann
 
 ## 📞 Contact
 
-For questions or suggestions, please contact me via [email](mailto:email@example.com) or open an issue in the repository.
+For questions or suggestions, please contact me via [email](dezacarrano@gmail.com) or open an issue in the repository.
 
 ---
 
